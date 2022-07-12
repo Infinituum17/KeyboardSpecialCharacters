@@ -1,9 +1,6 @@
 ; Only one instance can run at the same time
 #SingleInstance
 
-; Setting the tray icon
-Menu, Tray, Icon, tray_icon.ico
-
 ; Removing all the tray default options on right-click
 Menu, Tray, NoStandard
 
