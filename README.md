@@ -16,10 +16,13 @@ Right click the main file, and select 'Compile Script'.
 #### Step 4:
 Voilà 🥳 the file is now converted into an executable that you can run.
 
+### NOTE:
+The executable must be put inside a folder with the icon file downloaded from the project.
+
 #### Bonus step: 'Execute on startup' configuration ⬆️
 Press `WIN + r` and type `shell:startup` inside the box that appears.
 
-When a folder opens up, put your executable there.
+When a folder opens up, put your executable there, with the icon file.
 
 Now the file will be executed everytime you boot up your computer 🥳
 
