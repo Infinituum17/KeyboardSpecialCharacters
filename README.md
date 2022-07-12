@@ -11,7 +11,7 @@ Download AutoHotKey from the [official site](https://www.autohotkey.com/).
 Clone this repository or directly download the files.
 
 #### Step 3:
-Right click the main file, and select 'Compile Script'.
+Right click the main file, and select 'Compile Script (GUI)'. Be sure to include the icon in the compilation process.
 
 #### Step 4:
 Voilà 🥳 the file is now converted into an executable that you can run.
